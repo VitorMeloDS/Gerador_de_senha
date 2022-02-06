@@ -2,7 +2,7 @@
 
 __Hello, está querendo fazer uma senha segura e pratica :interrobang:__
 
-​				![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcomputerworld.com.br%2Fwp-content%2Fuploads%2F2019%2F10%2Fsenhas-fracas-seguranca.jpg&imgrefurl=https%3A%2F%2Fcomputerworld.com.br%2Fseguranca%2Fsenhas-fracas-ainda-sao-obstaculos-essenciais-a-seguranca-corporativa%2F&tbnid=JCT20OnF6NfS5M&vet=12ahUKEwj2vbrm9Ov1AhWsALkGHYuMBNkQMygCegUIARC_AQ..i&docid=-wybMUDrqkmLnM&w=770&h=420&q=imagens%20de%20seguran%C3%A7a%20de%20senha&ved=2ahUKEwj2vbrm9Ov1AhWsALkGHYuMBNkQMygCegUIARC_AQ)
+​				![alt text](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcomputerworld.com.br%2Fwp-content%2Fuploads%2F2019%2F10%2Fsenhas-fracas-seguranca.jpg&imgrefurl=https%3A%2F%2Fcomputerworld.com.br%2Fseguranca%2Fsenhas-fracas-ainda-sao-obstaculos-essenciais-a-seguranca-corporativa%2F&tbnid=JCT20OnF6NfS5M&vet=12ahUKEwj2vbrm9Ov1AhWsALkGHYuMBNkQMygCegUIARC_AQ..i&docid=-wybMUDrqkmLnM&w=770&h=420&q=imagens%20de%20seguran%C3%A7a%20de%20senha&ved=2ahUKEwj2vbrm9Ov1AhWsALkGHYuMBNkQMygCegUIARC_AQ)
 * __O gerador de senha é bem simples assim que você roda-ló vai aparecer a seguinte fresa: veja abaixo__.:small_red_triangle_down:
 
 ![](D:\teste\Gerador_de_senha\img\pergunta.PNG)
